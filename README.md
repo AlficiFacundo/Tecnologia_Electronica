@@ -1,1 +1,1 @@
-This repository contains the report and design of an stereo amplifier. All the sketches and PCB designs are shown at PDF format, but the proteus file is available too.
+This repository contains the report and design of an stereo amplifier. All the sketches and PCB designs are shown at PDF format, but the proteus (v 8.0) file is available too. The amplifier is based on a TDA2030 with TO-220 package.
